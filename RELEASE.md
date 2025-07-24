@@ -1,5 +1,9 @@
 # netd releases
 
+## 0.2.11
+### Bug
+ * Update `LinuxTCPInfo` struct to reflect kernel's `tcp_info` struct.
+
 ## 0.2.10
 ### Features
  * Add support to handle GKE ENABLE_IPV6 flag and populate ipv6Subnet
